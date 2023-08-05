@@ -154,7 +154,7 @@ else{
         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="id-card.php">Verify and Generate ID Card</a>
+        <a class="nav-link" href="login.html">Verify and Generate ID Card</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
@@ -222,8 +222,8 @@ else{
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
   <i class="fa fa-plus"></i> Add New Card
   </button>
-  <a href="id-card.php" class="btn btn-primary">
-  <i class="fa fa-address-card"></i> Generate ID Card
+  <a href="login.html" class="btn btn-primary">
+  <i class="fa fa-address-card"></i> Verify & Generate ID Card
 </a>
 </p>
 <div class="collapse" id="collapseExample">
