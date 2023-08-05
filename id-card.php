@@ -110,7 +110,6 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="icon" type="image/png" href="images/favicon.png"/>
-    <!-- <link rel="stylesheet" href="css/dashboard.css"> -->
     <link rel="icon" type="image/png" href="assets\uploads\logo.png"/>
 
     <title>Card Generation | Katexa <?php echo date("Y") ?></title>
@@ -367,7 +366,7 @@ hr.new2 {
         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="id-card.php">Verify and Generate ID Card</a>
+        <a class="nav-link" href="login.html">Verify and Generate ID Card</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
